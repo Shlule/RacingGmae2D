@@ -1,0 +1,6 @@
+﻿  Main.cpp
+D:\Elouan\Git\NecessaryGame\RacingGame2D\RacingGame2D\Main.cpp(88,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Elouan\Git\NecessaryGame\RacingGame2D\RacingGame2D\Main.cpp(89,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Elouan\Git\NecessaryGame\RacingGame2D\RacingGame2D\Main.cpp(98,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Elouan\Git\NecessaryGame\RacingGame2D\RacingGame2D\Main.cpp(99,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  RacingGame2D.vcxproj -> D:\Elouan\Git\NecessaryGame\RacingGame2D\bin\Debug\RacingGame2D.exe
